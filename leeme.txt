@@ -1,0 +1,7 @@
+Alberto Uriarte Martínez
+Juan Francisco Benito Cuesta
+
+Notas:
+-Comentar
+-Cambiar la clase turno
+-Cambiar las fechas de las clases
